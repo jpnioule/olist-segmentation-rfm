@@ -1,0 +1,6 @@
+segment,Clients,% clients,% CA,Récence médiane (j),Montant médian (R$),Commandes / client,Note moyenne
+Fidèles,1323,2.17,4.25,192.0,231.8,2.09,4.24
+Gros paniers,7636,12.51,39.93,274.0,383.17,1.0,4.01
+Récents,19015,31.15,30.18,121.0,143.55,1.0,4.15
+Petits paniers,16705,27.37,8.87,166.0,52.57,1.0,4.2
+Inactifs,16362,26.8,16.77,416.5,90.95,1.0,4.24
